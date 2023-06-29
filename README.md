@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hey! / Vitaju! / Вітаю! 👋
 
-<!--
-**navalnica/navalnica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:hearts: I'm passionate about developing NLP and Speech Processing tools for **Belarusian language**
 
-Here are some ideas to get you started:
+Since there is only limited number of pinned repositories, here are some other that might be interesting for you
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡️ Useful tools
+<table>
+  <tr>
+    <td valign="top" width="30%"><a href="https://github.com/navalnica/akr">akr</a></td>
+    <td valign="top" width="50%">Fight OCD in your brower by rewriting and memorizing sequences (for example IBAN, SWIFT codes)</td>
+    <td valign="top" width="20%"><img style="width: 110px" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/navalnica/akr?style=social"></td>
+  </tr>
+  <tr>
+    <td valign="top" width="30%"><a href="https://github.com/navalnica/vk_album_downloader">vk_album_downloader</a></td>
+    <td valign="top" width="50%">Download photo albums from vk.com</td>
+    <td valign="top" width="20%"><img style="width: 110px" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/navalnica/vk_album_downloader?style=social"></td>
+  </tr>
+  <tr>
+    <td valign="top" width="30%"><a href="https://github.com/navalnica/youtube-downloader-colab">youtube-downloader-colab</a></td>
+    <td valign="top" width="50%">Download audio from YouTube videos from your browser using Google Colab</td>
+    <td valign="top" width="20%"><img style="width: 110px" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/navalnica/youtube-downloader-colab?style=social"></td>
+  </tr>
+</table>
+
