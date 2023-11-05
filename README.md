@@ -1,6 +1,6 @@
 ### Hey! / Vitaju! / Вітаю! 👋
 
-:hearts: I'm passionate about developing NLP and Speech Processing tools for **Belarusian language**
+:hearts: I'm passionate about developing NLP and Speech Processing tools for **Belarusian language** and about statistics.
 
 Since there is only limited number of pinned repositories, here are some more that might be interesting to you
 
