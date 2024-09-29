@@ -34,5 +34,15 @@ Since there is only limited number of pinned repositories, here are some more th
     <td valign="top" width="80%">Download audio from YouTube videos directly in your browser using Google Colab</td>
   </tr>
 
-</table>
+  <tr>
+    <td valign="top" width="30%">
+      <a href="https://github.com/navalnica/whisper-local-inference-server">Whisper Local Asynchronous Inference Server</a><br>
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/navalnica/whisper-local-inference-server?style=flat&label=%E2%AD%90%EF%B8%8F%20stars&labelColor=ffffff&color=ffff00">
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/navalnica/whisper-local-inference-server?style=flat&label=%F0%9F%94%80%20forks&labelColor=ffffff&color=ffff00">
+    </td>
+    <td valign="top" width="80%">Local async web server to transcribe audio files using Whisper model. You can use it serve Belarusian Whisper model</td>
+  </tr>
 
+  
+
+</table>
